@@ -21,7 +21,7 @@ The original dataset deals with predicting air pollution in a city via various i
 
 The basic weather information consisted of the following:
 
-- Temperature in degrees Celcius
+- Temperature in degrees Celsius
 - Relative Humidity
 - Absolute Humidity
 
