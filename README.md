@@ -51,10 +51,11 @@ I also made the following columns:
 I looked at the distributions of the data and the time series decomposition patterns. 
 Below are a few tables to highlight:
 
-<img alt="Correlation Matrix" src="correlation_matrix.png" width="100" height="100">
-![Seasonality Decomposition](seasonality_decomposition.png | width=100)
-![Feature Autocorrelations](feature_autocorrelations.png | width=100)
-![Mutual Information](mutual_information.png | width=100)
+<img alt="Correlation Matrix" src="correlation_matrix.png" width="25%">
+<img alt="Seasonality Decomposition" src="seasonality_decomposition.png" width="25%">
+<img alt="Feature Autocorrelations" src="feature_autocorrelations.png" width="25%">
+<img alt="Mutual Information" src="mutual_information.png" width="25%">
+
 
 ## Model Building
 
