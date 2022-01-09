@@ -52,10 +52,10 @@ I looked at the distributions of the data and the time series decomposition patt
 Below are a few tables to highlight:
 
 <p display="float">
-  <img alt="Correlation Matrix" src="correlation_matrix.png" width="45%">
-  <img alt="Seasonality Decomposition" src="seasonality_decomposition.png" width="45%">
-  <img alt="Feature Autocorrelations" src="feature_autocorrelations.png" width="45%">
-  <img alt="Mutual Information" src="mutual_information.png" width="45%">
+  <img alt="Correlation Matrix" src="correlation_matrix.png" width="30%">
+  <img alt="Seasonality Decomposition" src="seasonality_decomposition.png" width="60%">
+  <img alt="Feature Autocorrelations" src="feature_autocorrelations.png" width="60%">
+  <img alt="Mutual Information" src="mutual_information.png" width="30%">
  </p>
 
 
