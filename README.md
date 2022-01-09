@@ -9,7 +9,7 @@
 - Placed in top 27% of *Kaggle Tabular Playground Series - Jul 2021* competition
 ## Code and Resources Used
 
-**Python Version:** 3.7\
+**Python Version:** 3.8.8\
 **Packages:** pandas, numpy, sklearn, seaborn, matplotlib, pylab, statsmodels, catboost, warnings\
 **For Web Framework Requirements:** ```pip install !catboost```\
 **Competition Link:** https://www.kaggle.com/c/tabular-playground-series-jul-2021/overview
