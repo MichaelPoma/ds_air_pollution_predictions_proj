@@ -13,6 +13,7 @@
 **Packages:** pandas, numpy, sklearn, seaborn, matplotlib, pylab, statsmodels, catboost, warnings\
 **For Web Framework Requirements:** ```pip install !catboost```\
 **Competition Link:** https://www.kaggle.com/c/tabular-playground-series-jul-2021/overview
+
 ## Data Collection
 
 The data was based on a real dataset, but with syntheticly-generated aspects to it.
@@ -30,6 +31,7 @@ The recorded sensor data included information from 5 sensors:
 - Sensor 3
 - Sensor 4
 - Sensor 5
+
 ## Data Cleaning
 
 After loading the data, it was already in good quality to be usable for the model. 
@@ -55,7 +57,7 @@ Below are a few tables to highlight:
   <img alt="Seasonality Decomposition" src="seasonality_decomposition.png" width="70%">
   <img alt="Feature Autocorrelations" src="feature_autocorrelations.png" width="70%">
   <img alt="Mutual Information" src="mutual_information.png" width="70%">
- </p>
+</p>
 
 
 ## Model Building
