@@ -18,7 +18,7 @@
 The data was based on a real dataset, but with syntheticly-generated aspects to it.
 The original dataset deals with predicting air pollution in a city via various input sensor values (e.g. a time series).
 
-The basic weather information included the following:
+The basic weather information consisted of the following:
 
 - Temperature in degrees Celcius
 - Relative Humidity
