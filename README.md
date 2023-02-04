@@ -22,16 +22,16 @@ The original dataset deals with predicting air pollution in a city via various i
 
 The basic weather information consisted of the following:
 
-- Temperature in degrees Celsius
-- Relative Humidity
-- Absolute Humidity
+- `Temperature in degrees Celsius`
+- `Relative Humidity`
+- `Absolute Humidity`
 
 The recorded sensor data included information from 5 sensors:
-- Sensor 1
-- Sensor 2
-- Sensor 3
-- Sensor 4
-- Sensor 5
+- `Sensor 1`
+- `Sensor 2`
+- `Sensor 3`
+- `Sensor 4`
+- `Sensor 5`
 
 ## Data Cleaning
 
@@ -43,11 +43,11 @@ However, I made the following changes:
 - Dropped original date_time column
 
 I also made the following columns:
-- year
-- month
-- day
-- hour
-- dayofweek_num
+- `year`
+- `month`
+- `day`
+- `hour`
+- `dayofweek_num`
 
 ## EDA
 
@@ -73,11 +73,11 @@ I chose RMSLE because it was the evaluation metric used in the competition and i
 ## Model Performance
 
 Hyperparameter tuned three CatBoostRegressors for optimal evaluation RMSLE:
-- num_leaves
-- min_child_samples
-- learning_rate
-- max_depth
-- max_bin
+- `num_leaves`
+- `min_child_samples`
+- `learning_rate`
+- `max_depth`
+- `max_bin`
 
 The best models performed with higher *num_leaves*, *min_child_samples*, *max_depth*, 
 and with varying *learning_rate* and *max_bin* parameter values dependent on the target.
